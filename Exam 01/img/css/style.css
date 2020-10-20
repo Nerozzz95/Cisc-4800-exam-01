@@ -1,0 +1,28 @@
+﻿@charset "UTF-8";
+body {
+    background-color: white;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+h2 {
+    font-family: Arial;
+    color: blue;
+    font-size: 30px;
+}
+ul{
+    margin-left: 45px;
+}
+li{
+    margin-left: 25px;
+}
+table, th, td{
+    border:1px solid;
+}
+a:link{
+    color:black;
+}
+li::before{
+    color:blue;
+}
